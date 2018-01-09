@@ -1,0 +1,1 @@
+This version couldn't read the device's data.

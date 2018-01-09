@@ -1,0 +1,1 @@
+This version could read the data from Modbus device.

@@ -1,0 +1,12 @@
+{
+		"NodeID": {
+		    "dsName": "Modbus Device",
+			"deviceAddr": "192.168.0.18,502,4",
+			"nodeAddr": ["0","1"]
+		    },
+		    {
+		    "dsName": "S7 Device",
+			"deviceAddr": "192.168.0.1,0,3"，
+			"nodeAddr": ["DB3,INT0","DB3,REAL2","DB3,X10.0","DB3,DW16"]
+		    }
+}
